@@ -1,9 +1,6 @@
 """
-This program folds protein 2reb using the
-Monte Carlo with minimization method using
-9-mer then 3-mer fragments for a low resolution
-move, then small, shear, and minimization moves
-for the high resolution move
+This program docks a peptide onto Clps using the
+a high resolution docking method
 """
 
 from pyrosetta import *
